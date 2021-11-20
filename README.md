@@ -3,6 +3,17 @@ Developer - Manit Maini
 ---
 
 ## Functions
+---
+## screenshots
+### Homepage
+![homepage snap](https://github.com/sumitkumar1503/hospitalmanagement/blob/master/static/screenshots/homepage.jpeg?raw=true)
+### Admin Dashboard
+![dashboard snap](https://github.com/sumitkumar1503/hospitalmanagement/blob/master/static/screenshots/admin_dashboard.jpeg?raw=true)
+### Invoice
+![invoice snap](https://github.com/sumitkumar1503/hospitalmanagement/blob/master/static/screenshots/invoice.jpeg?raw=true)
+### Doctor list
+![doctor snap](https://github.com/sumitkumar1503/hospitalmanagement/blob/master/static/screenshots/admin_doctor.jpeg?raw=true)
+---
 ### Admin
 - Signup their account. Then Login (No approval Required).
 - Can register/view/approve/reject/delete doctor (approve those doctor who applied for job in their hospital).
