@@ -6,13 +6,13 @@ Developer - Manit Maini
 ---
 ## screenshots
 ### Homepage
-![homepage snap](https://github.com/manitmaini/Hospital-Management-Sysytem/tree/main/static/screenshots/homepage.jpeg?raw=true)
+![homepage snap](https://github.com/manitmaini/Hospital-Management-Sysytem/tree/main/static/screenshots/homepage.png?raw=true)
 ### Admin Dashboard
-![dashboard snap](https://github.com/manitmaini/Hospital-Management-Sysytem/tree/main/static/screenshots/admin_dashboard.jpeg?raw=true)
+![dashboard snap](https://github.com/manitmaini/Hospital-Management-Sysytem/tree/main/static/screenshots/admin_dashboard.png?raw=true)
 ### Invoice
-![invoice snap](https://github.com/manitmaini/Hospital-Management-Sysytem/tree/main/static/screenshots/invoice.jpeg?raw=true)
+![invoice snap](https://github.com/manitmaini/Hospital-Management-Sysytem/tree/main/static/screenshots/invoice.png?raw=true)
 ### Doctor list
-![doctor snap](https://github.com/manitmaini/Hospital-Management-Sysytem/tree/main/static/screenshots/admin_doctor.jpeg?raw=true)
+![doctor snap](https://github.com/manitmaini/Hospital-Management-Sysytem/tree/main/static/screenshots/admin_doctor.png?raw=true)
 ---
 ### Admin
 - Signup their account. Then Login (No approval Required).
